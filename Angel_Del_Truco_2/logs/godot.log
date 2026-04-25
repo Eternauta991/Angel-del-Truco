@@ -1,0 +1,236 @@
+Godot Engine v4.6.1.stable.official.14d19694e - https://godotengine.org
+OpenGL API 3.3.0 Core Profile Context 26.1.1.251211 - Compatibility - Using Device: ATI Technologies Inc. - AMD Radeon RX 580 2048SP
+
+Turno del rival...
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+rival jugo
+Haz click para jugar
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+rival jugo
+Haz click para jugar
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+rival jugo
+Turno del rival...
+rival jugo
+Turno del rival...
+rival jugo
+Haz click para jugar
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+rival jugo
+Fin de ronda
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
+ERROR: The InputMap action "click" doesn't exist.
+   at: event_get_action_status (core/input/input_map.cpp:273)
+   GDScript backtrace (most recent call first):
+       [0] _input (res://juego.gd:49)
